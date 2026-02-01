@@ -72,7 +72,7 @@ export const skills = [
 ];
 
 export const softSkills = [
-    "Communication", "Teamwork", "Attention to detail", "Hard working", "Adaptability", "Dedicated"
+    "Client Communication", "Teamwork", "Attention to detail", "Problem Solving", "Adaptability", "Dedication", "Critical Thinking"
 ];
 
 export const projects = [
@@ -97,3 +97,4 @@ export const projects = [
         github: "https://github.com/An-Nihal/-automationexercise.com-Web-Automation"
     }
 ];
+
